@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment-1</string>
+    <string name="action_settings">Settings</string>
+    <string name="submitButton">SAVE</string>
+    <string name="clearButton">CLEAR</string>
+    <string name="ageText">Enter your age (e.g. 33)</string>
+    <string name="nameText">Enter your name (e.g. John Smith)</string>
+    <string name="userInfo">User Information</string>
+
+    <string-array name="Origin">
+        <item>Select Your Origin</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>Europe</item>
+    </string-array>
+
+    <string-array name="OS">
+        <item>Select Your OS</item>
+        <item>Android</item>
+        <item>iOS</item>
+    </string-array>
+</resources>
